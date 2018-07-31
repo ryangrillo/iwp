@@ -1,0 +1,16 @@
+***********   Invoice   ***********
+
+Job 1:
+envelopes : 556.40
+letterhead : 1983.37
+total: 2940.30
+
+Job 2:
+t-shirts : 314.62
+total: 346.96
+
+Job 3:
+frisbees : 19385.38
+yo-yos : 1829.00
+total: 24608.68
+
