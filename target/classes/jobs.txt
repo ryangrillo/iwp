@@ -1,0 +1,42 @@
+{
+	"jobs": [{
+			"id": 1,
+			"hasExtraMargin": true,
+			"items": [{
+					"name": "envelopes",
+					"price": 520.00,
+					"isExempt": false
+				},
+				{
+					"name": "letterhead",
+					"price": 1983.37,
+					"isExempt": true
+				}
+			]
+		},
+		{
+			"id": 2,
+			"hasExtraMargin": false,
+			"items": [{
+				"name": "t-shirts",
+				"price": 294.04,
+				"isExempt": false
+			}]
+		},
+		{
+			"id": 3,
+			"hasExtraMargin": true,
+			"items": [{
+					"name": "frisbees",
+					"price": 19385.38,
+					"isExempt": true
+				},
+				{
+					"name": "yo-yos",
+					"price": 1829,
+					"isExempt": true
+				}
+			]
+		}
+	]
+}
