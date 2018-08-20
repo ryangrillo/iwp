@@ -1,5 +1,3 @@
-First, I would like to thank you for your consideration
-and the opportunity to complete this project.  
 
 - This project was created in Eclipse with Maven dependencies. In order to 
   compile it needs to run in an IDE so that these external depencies can be 
